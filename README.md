@@ -23,7 +23,7 @@ The lab is based on Proxmox VE and includes:
 
 ## 🏗️ Architecture
 
-![Architecture](diagrams/pve-proxmox.jpg)
+![Architecture](diagrams/pve-proxmox.JPG)
 
 ---
 
