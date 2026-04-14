@@ -1,5 +1,5 @@
-# proxmox-lab
-Proxmox lab with networking, Docker, AD, monitoring, security
+# Proxmox-lab1
+Proxmox lab with Enterprise Network, Docker, AD, monitoring, firewall
 
 
 # 🖥️ Infrastructure Proxmox
