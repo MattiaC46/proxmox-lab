@@ -1,4 +1,4 @@
-# Proxmox-lab1
+# Proxmox-lab
 Proxmox lab with Enterprise Network, Docker, AD, monitoring, firewall
 
 
