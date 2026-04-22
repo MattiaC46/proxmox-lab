@@ -11,7 +11,7 @@
 ![Veeam](https://img.shields.io/badge/Backup-Veeam-green)
 # PROXMOX VE Infrastructure Projects
 
-This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
+This repository provides an overview of my projects focused on system administration, networking, virtualization, and backup strategies.
 
 The lab is built using real-world technologies to simulate enterprise environments and practice production-like scenarios.
 
