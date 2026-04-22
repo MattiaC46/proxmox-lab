@@ -65,19 +65,6 @@ A multi-node virtualization cluster built to simulate enterprise-grade infrastru
 
 ---
 
-## 🧠 Skills Demonstrated
-
-- Virtualization and cluster management
-- Network design and segmentation
-- Firewall configuration
-- Active Directory deployment
-- DNS and DHCP configuration
-- High Availability (HA)
-- Backup and disaster recovery
-- Troubleshooting and infrastructure testing
-
----
-
 ## Goals of the Lab & Real-World Context
 
 These projects were developed during an internship in a company environment with the goal of evaluating a potential migration from Hyper-V to Proxmox VE.
