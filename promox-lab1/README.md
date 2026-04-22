@@ -11,7 +11,7 @@ Proxmox lab with Enterprise Network, Docker, AD, monitoring, firewall
 
 # 🖥️ Infrastructure Proxmox
 
-This project documents my personal homelab built to practice system administration, networking, and infrastructure design.
+This project documents my personal project built to practice system administration, networking, and infrastructure design.
 
 ##  Overview
 
