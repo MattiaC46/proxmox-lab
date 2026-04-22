@@ -92,4 +92,4 @@ A multi-node virtualization cluster built to simulate enterprise-grade infrastru
 
 ## 📄 Author
 
-Personal homelab projects focused on learning and practicing system administration and infrastructure design.
+Personal lab projects focused on learning and practicing system administration and infrastructure design.
