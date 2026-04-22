@@ -9,7 +9,7 @@
 ![NFS](https://img.shields.io/badge/Storage-NFS-blue)
 ![HA](https://img.shields.io/badge/HA-Enabled-success)
 ![Veeam](https://img.shields.io/badge/Backup-Veeam-green)
-# 🧠 PROXMOX VE Infrastructure Projects
+# PROXMOX VE Infrastructure Projects
 
 This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
 
@@ -17,9 +17,9 @@ The lab is built using real-world technologies to simulate enterprise environmen
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
-### 🔐 1. Enterprise Network Lab with Firewall and Active Directory
+### 🖥️ 1. Enterprise Network Lab with Firewall and Active Directory
 
 A virtual enterprise network designed to simulate a real corporate environment with network segmentation, firewalling, and centralized identity management.
 
