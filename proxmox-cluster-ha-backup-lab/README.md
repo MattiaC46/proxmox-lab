@@ -1,3 +1,8 @@
+![Proxmox](https://img.shields.io/badge/Proxmox-Cluster-orange)
+![NAS](https://img.shields.io/badge/Storage-NAS-blueviolet)
+![NFS](https://img.shields.io/badge/Storage-NFS-blue)
+![HA](https://img.shields.io/badge/HA-Enabled-success)
+![Veeam](https://img.shields.io/badge/Backup-Veeam-green)
 # 🖥️ Proxmox Cluster Lab with High Availability and Backup
 
 This project documents a multi-node virtualization infrastructure built to practice real-world system administration concepts including clustering, high availability, shared storage, and disaster recovery.
