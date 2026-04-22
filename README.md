@@ -78,12 +78,19 @@ A multi-node virtualization cluster built to simulate enterprise-grade infrastru
 
 ---
 
-## 🎯 Goals of the Lab
+## Goals of the Lab & Real-World Context
 
-- Simulate real enterprise environments
-- Gain practical system administration experience
-- Understand infrastructure behavior under failure conditions
-- Build projects relevant for technical interviews
+These projects were developed during an internship in a company environment with the goal of evaluating a potential migration from Hyper-V to Proxmox VE.
+
+The lab infrastructure was used to simulate real-world scenarios including:
+
+- Multi-node virtualization cluster
+- High Availability (HA) and failover behavior
+- Shared storage using NFS
+- Backup and disaster recovery using Veeam
+- Network segmentation and Active Directory integration
+
+This project therefore represents not only a learning experience, but also a practical proof-of-concept for a production environment.
 
 ---
 
