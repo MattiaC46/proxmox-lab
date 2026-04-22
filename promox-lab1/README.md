@@ -13,7 +13,7 @@ Proxmox lab with Enterprise Network, Docker, AD, monitoring, firewall
 
 This project documents my personal homelab built to practice system administration, networking, and infrastructure design.
 
-## 🚀 Overview
+##  Overview
 
 The lab is based on Proxmox VE and includes:
 
@@ -28,7 +28,7 @@ The lab is based on Proxmox VE and includes:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ![Architecture](diagrams/pve-proxmox.JPG)
 
@@ -47,7 +47,7 @@ The lab is based on Proxmox VE and includes:
 
 ---
 
-## 🧱 Infrastructure Components
+##  Infrastructure Components
 
 ### Virtualization
 - Proxmox VE host
@@ -90,7 +90,7 @@ The lab is based on Proxmox VE and includes:
 
 ---
 
-## 🧪 Learning Goals
+##  Learning Goals
 
 - Network segmentation and routing
 - DNS architecture and resolution flow
