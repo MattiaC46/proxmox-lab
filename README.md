@@ -5,6 +5,10 @@
 ![VPN](https://img.shields.io/badge/VPN-Remote_Access-blue)
 ![DNS](https://img.shields.io/badge/DNS-Configured-informational)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20%2B%20Prometheus-orange)
+![NAS](https://img.shields.io/badge/Storage-NAS-blueviolet)
+![NFS](https://img.shields.io/badge/Storage-NFS-blue)
+![HA](https://img.shields.io/badge/HA-Enabled-success)
+![Veeam](https://img.shields.io/badge/Backup-Veeam-green)
 # 🧠 PROXMOX VE Infrastructure Projects
 
 This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
