@@ -1,5 +1,10 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange)
-
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Active Directory](https://img.shields.io/badge/AD-Domain_Controller-purple)
+![Firewall](https://img.shields.io/badge/Firewall-NethSecurity-red)
+![VPN](https://img.shields.io/badge/VPN-Remote_Access-blue)
+![DNS](https://img.shields.io/badge/DNS-Configured-informational)
+![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20%2B%20Prometheus-orange)
 # 🧠 PROXMOX VE Infrastructure Projects
 
 This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
