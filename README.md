@@ -1,4 +1,4 @@
-# 🧠 Homelab Infrastructure Projects
+# 🧠 PROXMOX VE Infrastructure Projects
 
 This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
 
