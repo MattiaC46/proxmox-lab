@@ -76,12 +76,6 @@ A multi-node virtualization cluster built to simulate enterprise-grade infrastru
 
 ---
 
-## 📌 Future Improvements
-
-- Monitoring and alerting system
-- Advanced HA rules (affinity / anti-affinity)
-- Storage network separation
-- Backup automation and reporting
 
 ---
 
