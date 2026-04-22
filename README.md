@@ -1,7 +1,5 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Veeam](https://img.shields.io/badge/Veeam-Backup-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
 # 🧠 PROXMOX VE Infrastructure Projects
 
 This repository provides an overview of my hands-on homelab projects focused on system administration, networking, virtualization, and backup strategies.
