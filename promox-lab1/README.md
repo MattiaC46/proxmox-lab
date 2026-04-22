@@ -2,6 +2,9 @@
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Active Directory](https://img.shields.io/badge/AD-Domain_Controller-purple)
 ![Firewall](https://img.shields.io/badge/Firewall-NethSecurity-red)
+![VPN](https://img.shields.io/badge/VPN-Remote_Access-blue)
+![DNS](https://img.shields.io/badge/DNS-Configured-informational)
+![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20%2B%20Prometheus-orange)
 # Proxmox-lab
 Proxmox lab with Enterprise Network, Docker, AD, monitoring, firewall
 
