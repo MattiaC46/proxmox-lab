@@ -9,7 +9,7 @@ This project documents a multi-node virtualization infrastructure built to pract
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 The lab is based on a 3-node cluster using Proxmox VE and includes:
 
@@ -21,7 +21,7 @@ The lab is based on a 3-node cluster using Proxmox VE and includes:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 - 3 Proxmox nodes
 - NAS providing NFS shared storage
@@ -75,7 +75,7 @@ The lab is based on a 3-node cluster using Proxmox VE and includes:
 
 ---
 
-## 🔥 Failover Test
+##  Failover Test
 
 Simulated node failure:
 
