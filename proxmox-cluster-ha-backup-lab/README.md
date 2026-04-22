@@ -28,7 +28,7 @@ The lab is based on a 3-node cluster using Proxmox VE and includes:
 ## 🌐 Infrastructure Components
 
 ### Virtualization
-- :contentReference[oaicite:0]{index=0} cluster (3 nodes)
+- Proxmox VE cluster (3 nodes)
 
 ### Storage
 - Shared storage via NFS (NAS)
@@ -39,7 +39,7 @@ The lab is based on a 3-node cluster using Proxmox VE and includes:
 - Automatic failover enabled across nodes
 
 ### Backup
-- :contentReference[oaicite:1]{index=1} deployed on Windows Server
+- Veeam Backup & Replication deployed on Windows Server
 - Backup repository hosted on NAS (NFS)
 
 ---
@@ -110,4 +110,4 @@ Simulated node failure:
 
 ## 📄 Author
 
-Personal homelab project focused on system administration, virtualization, and infrastructure design.
+Personal lab project focused on system administration, virtualization, and infrastructure design.
